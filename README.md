@@ -1,35 +1,35 @@
-#Arkadaslar Merhaba Ben Ahmet.
+# Termux-Eğitim
 
-Belki aranizdan birkaç kisi bu egitimi gormustür baya bir hatasi vardi
+## Arkadaşlar Merhaba Ben Ahmet. Belki aranızdan birkaç kişi bu eğitimi görmüştür baya bir hatası vardı Toolu güncelledim Ve Yeni Birkaç şey ekledim
 
-Toolu guncelledim Ve Yeni Birkaç sey ekledim
+### Kurulum için:
 
-Kurulum icin:
+``pkg update``
 
-pkg update
+``pkg upgrade``
 
-pkg upgrade
+``pkg install python``
 
-pkg install python
+``pkg install python3``
 
-pkg install python3
+``pkg install bash``
 
-pkg install bash
+``git clone https://github.com/ASER-VANT/Termux-Egitim.git``
 
-git clone https://github.com/ASER-VANT/Termux-Egitim.git
+``cd Termux-Egitim``
 
-cd Termux-Egitim
+``chmod 777 setup.sh``
 
-chmod 777 setup.sh
+``./setup.sh``
 
-./setup.sh
+``eğitim``
 
-eğitim
-
-Kisaca asagidaki komutu yapistirabilirsiniz
+#### Kısaca asağıdaki komutu yapıştırabilirsiniz
 
 
-pkg update -y&&pkg upgrade -y&&pkg install python -y&&pkg install bash -y&&git clone https://github.com/ASER-VANT/Termux-Egitim.git&&cd Termux-Egitim&&chmod 777 setup.sh&&./setup.sh&&eğitim
+``pkg update -y && pkg upgrade -y && pkg install python -y && pkg install bash -y && git clone https://github.com/ASER-VANT/Termux-Egitim.git && cd Termux-Egitim && chmod 777 setup.sh && ./setup.sh && eğitim``
 
 
-github turce karakter kabul etmiyor yazi icin ozur dilerim
+##### İletişim
+> [INSTAGRAM SAEP](https://Instagram.com/saep_officiall_/)
+> [INSTAGRAM ASER](https://Instagram.com/aser_vant/)
