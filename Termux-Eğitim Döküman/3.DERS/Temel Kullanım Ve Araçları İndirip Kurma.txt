@@ -1,0 +1,33 @@
+Not: Toolar Zaten Otomatik Olarak Bu Eğitimde Kuruluyor Ama Ben Size Manuel Nasıl Yükleyeceğinizi Burada Detaylı Bir Şekilde Anlatacağım
+
+Şimdi toolları en çok github.com adresinden indireceğiz buradan tooları indirmek için
+önce git aracını kuruyoruz bunun için "pkg install git" yazabilirsiniz
+git aracını kullanabilmek için "git clone <toolun linki>"
+
+örnek olarak "git clone https://github.com/M49R0/MACRO.git" Şeklinde yazmanız gerekir
+Sonra indirilen dosyanın içine girmek için "cd" komutunu kullanıyoruz
+örneğin "cd MACRO" bu komutla eğer dosya orada ise dosyanın içine girecektir.
+
+eğer dosyadan çıkmak ve ana dizine gitmek istiyorsanız sadece "cd" yazın.
+hata olursa cd .. kullanın
+
+Yok ben bir dizin alt gidicem diyorsanız o zaman "cd .." yazın.
+
+Bir dosyanın içinde ne var görmek istiyorsanız "ls" yazın, İçinde Bulunduğunuz Klasörde ne varsa gösterir
+Bazı dosyalar Gizlidir bunlar genelde bilgisayar işletim sistemlerinde olur eğer ls -la Yazarsanız gizli dosyalarıda gösterecektir
+
+Bir Python dosyasını açmak için pythonun yüklü olması lazım
+mesela "python örnek.py" ama bazen bazı python dosyaları
+farklı oluyor. Mesela python3 python2 ilede açılan dosyalar var.
+
+Shell ile yazılmış bir dosyayı ise "bash test.sh" şeklinde açabilirsiniz
+
+mesela her dilin farklı bir uzantısı vardır
+
+Python: .py .pyc vs
+
+Shell: .sh
+
+Ruby: .rb
+
+daha fazlasını isterseniz araştırın bir dilin 1'den fazla uzantısı olabilir.

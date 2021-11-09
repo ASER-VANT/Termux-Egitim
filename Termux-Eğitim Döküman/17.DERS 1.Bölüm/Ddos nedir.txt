@@ -1,0 +1,21 @@
+DDoS nedir?
+DDoS yani Distributed Denial of Service (Daðýtýk Hizmet Engelleme) saldýrýlarý, tamamen Bilgi Güvenliði unsurlarýndan 
+Eriþilebilirliði hedef almaktadýr. Öncesinde sadece DoS (Denial of Service), yani tek bir kaynaktan hedefe doðru saldýrý 
+yapýlmasý þeklinde ortaya çýkan bu saldýrý türü, zamanla þiddetinin arttýrýlmasý için çok sayýda kaynaktan tek hedefe yapýlan 
+saldýrý þekline dönüþmüþtür
+
+Bu Yaman Efkarýn DDOS Hakkýndaki anlatýmý
+
+DDOS Nedir?
+
+
+DDOS Bir servisin bir bilgisayar veya bir dijital makine üzerinden paketler göndererek
+hedefin devre dýþý býrakýlmasýný saðlayan bir siber saldýrýdýr. DDOS'un Tanýmý
+Denial of Service (Daðýtýk Hizmet Engelleme) gibidir(Yukarýdakini kopyaladým)
+bu DDOS saldýrýlarý kendi içinde çok dallara ayrýlýr 
+örneðin: SYN flood, ACK flood, ICMP flood gibi
+
+	(TAFSÝLAT BÖLÜMÜ)
+Bu gibi saldýrýlar yapmak için hedefte bir portun açýk olmasý lazýmdýr
+eðer bir ip bulup buna ben hemen ddos atarým diyorsanýz yanýlýyorsunuz
+web sitelerinde zaten port açmak zorundalar ama istediðiniz portu yazamazsýnýz

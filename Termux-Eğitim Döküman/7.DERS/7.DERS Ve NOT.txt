@@ -1,0 +1,19 @@
+Öncelikle Gmail Hesabına ne yaparsak hesabı ele geçiririz?
+Hesaba Oltalama Saldırısı Yapılabilir 
+Brute Force Attack (Kaba Kuvvet Saldırısı) Yapılabilir
+
+Oltalama Nedir?
+
+Sosyal mühendislik olarakda geçen bu saldırı
+kişiye bir link gönderilerek kişiyi kandırma odaklı bir saldırıdır
+
+Brute Force Attack Nedir?
+
+Bir Parola Listesi Oluşturarak hedef Giriş Sistemine Parolaları Tekrar Tekrar Deniyerek Doğru Sonucu Bulmaya Çalışılmasıdır
+
+Nasıl Parola Listesi Oluşturabileceğinizi Bu Kursda Görebilirsiniz
+
+Not: Bu Dersi İşlemeden Önce Bir Parola Listesi Oluşturun
+
+Not2: Video Dosyası Biraz Büyük Olduğu İçin Silinmiştir İlerideki Zamanlarda Youtube
+Üzerinden Videosu Gelecektir.

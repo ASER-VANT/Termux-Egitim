@@ -1,0 +1,12 @@
+Termux Android Telefonlardan Kendini hack Konusunda
+Geliştirmek İsteyenler İçin Tasarlanmış Bir Debian
+Tabanlı Telefon Uygulaması (IOS Desteklemez)
+Termux İçinde Paket Yükleyicisi Sayesinde Birçok Şeyi
+Kendi İçinde Kurabilir Bu Depolar "pkg ,apt ,apt-get" Şeklindedir 
+Bir Paket Yüklemek İsterseniz "pkg install paket-adı"
+Şeklinde Yüklersiniz. Sizin Linux'da Yapacağınız İşlerin
+5/3'ünü Yapabilir Bu Yüzden Bilgisayarı Olmayan
+Hacker Olamaz Diye Birşey Yoktur. Akıllı Telefonu Olan
+Herkes Kısmi Olarak Hacker Olabilir
+
+Detaylı Bilgi İçin --> https://www.youtube.com/watch?v=7c6nLsv5s7I

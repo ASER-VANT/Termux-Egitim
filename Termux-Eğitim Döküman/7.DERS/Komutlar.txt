@@ -1,0 +1,11 @@
+Komutlar;
+
+pkg install git
+
+apt update
+
+pkg install python
+
+cd /sdcard 
+
+git clone https://github.com/b3-v3r/Hunner

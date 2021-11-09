@@ -1,0 +1,10 @@
+WafW00f Nedir? 
+
+Bir Güvenlik Duvarı Algılayıcıdır
+
+Yani sistemi koruyan bir yazılım varmı ne kadar iyi bir teknoloji olduğunu gösterir
+Pasif bilgi toplama aracıdır
+
+Nasıl Kullanılır ?
+
+wafw00f yazın ama o'ların yerin sıfır koyun sonrada istediğiniz sitenin adını yazın

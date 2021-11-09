@@ -1,0 +1,41 @@
+Katman 1
+
+İnternetin  Fiziksel Tarafıdır
+
+Katman 2
+
+Verinin İşlendiği Bölüm
+Switchler (Anahtarlar) Bu Bölümde Kullanılır
+
+Kendi Ağı İçindeki Mac Adreslerini Kullanarak İletişim Sağlar 
+
+Katman 3
+
+IP Adresi Bu Katmanda İşlenir Modemde Burada İş Görüyor
+
+Katman 4 
+
+Transport Adından Anlışlıcağı Üzere portlar Bu Kısımda İş Görüyor.
+Dış Bağlantı Buradan Salnıyor Veri Alışverişi Yapılıyor.
+
+Katman 5
+
+Session Açma İşlemi Dediğimiz İşlem Burada Yapılıyor
+Bağlantı ve İletişim İşlemlerinin Yapıldığı Katman
+
+Katman 6
+
+Verinin Görselleştirilmesi Bu Katmanda Yapılıyor
+JPEG MOV DATA Gibi Şeylerin Bu Katmanda İşlediğini Söyleyebiliriz.
+
+
+Katman 7
+
+Uygulama Katmanı Olarak Geçer Mail Serverleri HTTP Gibi Serverler
+Bu Katmanda İşliyor Her zaman Duyduğunuz Bu Site HTTP Bu Site HTTPS Kullanıyor
+Gibi Terimlerin Ana Kaynağıdır Aslında
+
+Aslında bunları bilmenize gerek yok ama internetin katmanları network'cüler için
+çok önemlidir ve hangi işe girmek isterseniz isteyin mutlaka çıkacaktır.
+Bu dersin Dökümanlarındaki Dosyalara bir göz atın internetin nasıl çalıştırğını bakkal bile anlayacağı
+şekilde anlatan bir videonun linki var onu izleyin sonra bu derse göz atmanıza gerek kalmıyacaktır

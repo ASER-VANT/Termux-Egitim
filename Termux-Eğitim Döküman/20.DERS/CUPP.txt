@@ -1,0 +1,15 @@
+Kişiye Özel WordList Nedir?
+
+Bir Kişinin Bilgilerini Kullanarak Onun Şifresi Olabilecek Şifreleri Kombine Olarak Yazmasıdır.
+Cupp Dediğimiz Bir Araç Var Ama Bu Aracı Tam Anlıyamayabilirsiniz Çünkü İngilizce Fakat
+Araştırıp Varsa Türkçesini Bulabilirsiniz
+
+Kurulum
+
+git clone https://github.com/Mebus/cupp
+
+cd cupp
+
+chmod 777 *
+
+python3 cupp.py -i

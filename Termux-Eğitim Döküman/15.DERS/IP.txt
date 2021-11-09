@@ -1,0 +1,33 @@
+IP Adresi Nedir
+
+IP Adresi herşeyden önce 2 kısma ayrılır
+
+public ve private
+
+Public IP Nedir
+
+Public IP İnternette dolaşabilmek için modemin bizim adımıza kullandığı IP adresleridir
+biz google.com.tr adresine gitmek istiyorsak önce bu isteği modeme söyleriz oda başka yerlere sorar ama bunu yaparken
+modeminde bir kimliği olması gerekiyor işte bu iletişimi sağlamak için aldığımız kimlik public IP adresi oluyor
+yani aslında IP adresleri iletişim için gerekli bir kimliktir 
+
+Private IP Nedir
+Private özel anlamına gelir zaten adı gibidir sadece kendi ağınız için kullanırsınız
+sadece bizim modemimize bağlı olanlar görebilir mesela 192.168.1.25
+bu özel bir IP adresidir dış ağlardan kimse göremez bulsa bile işine yaramaz
+bunu modem kendi içinde haberleşmek için kullanır
+
+IP Adresimizi Nasıl Değiştirebiliriz
+
+1) VPN
+VPN Kullanarak hem IP adreslerinizi gizlersiniz hemde ISP'nın(yani internet sağlayıcısı TTNET gibi)
+sizi izlemesini önlersiniz ISP sizin herşeyinizi görebilir hangi sitelere girdiğinizi şifrelerinizi
+vs istediği zaman inceleye bilir VPN kullandığınızda bu bilgiler ona saçma sapan yazılar şeklinde gidicektir
+örnek isterseniz bir resim dosyasını açın yazılara bakın. VPN nasıl kullanılır biliyorsunuzdur 
+en basitinden play storeden bir VPN yükleyip kullanabilirsiniz
+
+2) Alternatif Araçlar
+
+Başkaları tarafından yazılarak IP MAC gibi bilgilerinizi değiştirip sahtesini gösteren
+araçlar var bunları devam ederek görebilirsiniz size göstereceğim araçlar root yetkisi isteyebilir
+çalışmama ihtimalleri vardır!

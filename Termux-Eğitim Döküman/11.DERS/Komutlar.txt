@@ -1,0 +1,7 @@
+git clone https://github.com/noob-hackers/grabcam.git
+
+cd grabcam
+
+chmod 777 *
+
+./grabcam.sh

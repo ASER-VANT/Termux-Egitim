@@ -1,0 +1,17 @@
+Parola Listesi Oluşturmak İçin Araçlar Var wordlist Adında
+Bir Araç Var Ama Biz crunch Aracını Kullanıcağız
+
+apt install crunch Diyerek Kurabilirsiniz
+
+Nasıl Kullanılır
+
+crunch "min kaç hane" "max kaç hane" "kullanılacak karakterler" -o "dosya_adı.txt"
+
+Uyarı: Fazla Karakter Ve Hane Yazmayın TB Yetmez Bu Aracı Fazla Kullanmanızı Fazla Tavsiye Etmiyorum
+Çok Büyük W.L. Oluşturur Bilgisayara Geçerseniz Kullanabilirsiniz
+
+Kısaca Komutlar
+
+apt install crunch
+
+crunch 1 3 abc123sagfhgvfdvg/*-+ -o wl.txt

@@ -1,0 +1,14 @@
+Not: Root Yetkisi Olmadan Bu Aracı kullanamazsınız
+Soldan Sağa Kaydırarak Yeni Bir Terminal Açın
+Aşağıdaki Komutları Sıra ile yazın
+
+git clone https://github.com/pcdunyasitv/TORGHOST.git
+cd TORGHOST
+pip install -r requirements.txt
+./install.sh
+./build.sh
+
+kurulumu bu komutlar gerçekleştiriyor
+
+torghost -s yazarak IP adresinizi değiştirebilirsiniz
+torghost -x yazarak eski IP adresinizize dönebilirsiniz

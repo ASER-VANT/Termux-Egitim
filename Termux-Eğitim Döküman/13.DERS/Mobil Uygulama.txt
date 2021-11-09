@@ -1,0 +1,12 @@
+Mobil Uygulama Geliştirmek İçin Hangi Dilleri Bilmemiz Gerekir.
+
+Eğer Android Uygulama Geliştirmek İstiyorsanız Kotlin Şart.
+
+Ama Ben İOS Uygılaması Yapıcam Diyorsanız Swift Dili Şarttır
+
+Bir Kere Bir Bilgisayarınızın Olması Şart
+Hangi Dili Yazmak İsyorsunuz Hangi Sektörde Olduğunuz Fark Etmez.
+
+Bu Sektörlerin Hiçbirine Girmedim Sayılır Ayrıntılı Bilgiyi Dökümanlarda Bulabilirsiniz
+
+Unutmayın Öğrenmek İstediğiniz Her Sektörde Mutlaka Udemy'e Göz Atın

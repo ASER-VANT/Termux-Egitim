@@ -1,0 +1,11 @@
+Hangi Dilleri Bilmeliyiz
+
+HTML Bilmeniz Şart
+Python, SQL, MYSQL, Php, CSS ve Java Bu Dillerde Kullanılır
+Bir Web Geliştirici Olamk İstiyorsanız Veri Tabanlarını Bilmeniz Gerekir
+
+Veri Tabanı Dilleri İse
+
+SQL, SQLite, MYSQL vs. Bu Şekilde Gider
+
+Bu Sektörde Gelişmek İstiyorsanız udemy.com'da Bir Sürü Ders Var Onlardan Alabilirsiniz.

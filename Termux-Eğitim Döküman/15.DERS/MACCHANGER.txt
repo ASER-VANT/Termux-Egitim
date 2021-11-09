@@ -1,0 +1,14 @@
+Not: Root Yetkisi Olmadan Bu Aracı kullanamazsınız
+Soldan Sağa Kaydırarak Yeni Bir Terminal Açın
+
+Kurulum için
+
+pkg install macchanger Yazın
+
+Çalıştırmak için
+
+macchanger -r wlan0
+
+Kapatmak için
+
+macchanger -p wlan0

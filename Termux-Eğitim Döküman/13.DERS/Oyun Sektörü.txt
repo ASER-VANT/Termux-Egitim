@@ -1,0 +1,22 @@
+Oyun Sektörüde Aslında İkiye Ayrılır Ama Biz Şimdi
+Bilgisayarlar İçin Oyun Sektörüne Göz Atacağız.
+
+Hangi Yazılım Dillerini Bilmeniz Gerekir.
+
+C# Veya C++
+Ama İsterseniz Başka Bir Dilde Öğrenebilirsiniz Size Tavsiyem
+Yazılımcı Olucaksanız Bu iki Dilden Birini Mutlaka Öğrenin.
+
+Ne İle Yapılıyor Bu Oyunlar Hangi Uygulamalar Kullanılıyor
+
+Unity Gibi Oyun Motorları Kullanılarak Yapılıyor
+Bu oyun motorları sayesinde oyun yapmak çok daha kolay oluyor.
+
+Oyun Yapmak Sadece Kodlardan İbaretmi ?
+
+Tabikide Hayır. Bu Sektöre Bir Kere Girmeye Çalıştım Ama Bilgisayarım
+Beni Yarı Yolda Bırakmasından Korktuğum İçin Giremesdim 
+
+Bu Sektöre Giriyorsanız Youtubeden Baka Baka Öğrenmeniz Zor Olur
+Udemy.com adresinden Oyun Geliştirme Kursları almanızı Tavsiye Ederim
+(Her Türk gibi Filitrelerden Ücretsizi Seçebilirsiniz)

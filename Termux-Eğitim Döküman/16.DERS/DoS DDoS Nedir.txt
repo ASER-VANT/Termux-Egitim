@@ -1,0 +1,27 @@
+DDOS Nedir 
+
+DDoS yani Distributed Denial of Service (Dağıtık Hizmet Engelleme) saldırıları, tamamen Bilgi Güvenliği unsurlarından 
+Erişilebilirliği hedef almaktadır. Öncesinde sadece DoS (Denial of Service), yani tek bir kaynaktan hedefe doğru saldırı 
+yapılması şeklinde ortaya çıkan bu saldırı türü, zamanla şiddetinin arttırılması için çok sayıda kaynaktan tek hedefe yapılan 
+saldırı şekline dönüşmüştür
+
+Bu Yaman Efkarın DDOS Hakkındaki anlatımı
+
+DDOS Bir servisin bir bilgisayar veya bir dijital makine üzerinden paketler göndererek
+hedefin devre dışı bırakılmasını sağlayan bir siber saldırıdır. DDOS'un Tanımı
+Distributed Denial of Service (Dağıtık Hizmet Engelleme) 
+bu DDOS saldırıları kendi içinde çok dallara ayrılır 
+örneğin: SYN flood, ACK flood, ICMP flood gibi 
+
+	(TAFSİLAT BÖLÜMÜ)
+Bu gibi saldırılar yapmak için hedefte bir portun açık olması lazımdır
+eğer bir ip bulup buna ben hemen ddos atarım diyorsanız yanılıyorsunuz
+web sitelerinde zaten port açmak zorundalar ama istediğiniz portu yazamazsınız
+ilerde siber gğvenlik uzmanı olmak isterseniz hangi layer'den atılan DDoS'un
+Nasıl Engellenileceğini Öğreniceksiniz Ama Bu Eğitimde Sadece Temeli Anlatıyorun
+
+Özel Bilgi:
+
+Botnet Dediğimiz Bir Kavram Var Belki Duymuşsunuzdur
+Açık Bulunan Bilgisayarların Arka planlarında yazılımlar çalıştırarak yani sizi kullanarak bir siteye DDoS
+Atmasıdır Bunu Önlemek İçin Bilgisayar

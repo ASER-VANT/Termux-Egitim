@@ -1,0 +1,4 @@
+MAC Adresi Nedir
+
+MAC adresi donanumların fiziksel adresidir ama ama sizin çevrenizde bulunmayan bir kişinin
+pek işine yaramaz ağ saldırılarında kullanılır

