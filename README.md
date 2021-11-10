@@ -22,12 +22,14 @@
 
 ``./setup.sh``
 
+``alias eğitim='python3 Termux-Eğitim.py'``
+
 ``eğitim``
 
 #### Kısaca asağıdaki komutu yapıştırabilirsiniz
 
 
-``pkg update -y && pkg upgrade -y && pkg install python -y && pkg install bash -y && git clone https://github.com/ASER-VANT/Termux-Egitim.git && cd Termux-Egitim && chmod 777 setup.sh && ./setup.sh && eğitim``
+``pkg update -y && pkg upgrade -y && pkg install python -y && pkg install bash -y && git clone https://github.com/ASER-VANT/Termux-Egitim.git && cd Termux-Egitim && chmod 777 setup.sh && ./setup.sh && alias eğitim='python3 Termux-Eğitim.py && eğitim``
 
 
 ##### İletişim
