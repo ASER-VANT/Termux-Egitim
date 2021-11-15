@@ -35,9 +35,8 @@ apt install hydra -y
 apt install openssl -y
 apt install nodejs -y
 apt install cmatrix
-alias egitim='python3 Termux-Eğitim.py'
 clear
 
 printf "$kirmizi                 KURULUM BİTTİ!!                   $reset"
 printf "\n"
-printf "$kirmizi     egitim  YAZARAK ARACI ÇALIŞTIRABİLİRSİNİZ     $reset"
+printf "\n"
