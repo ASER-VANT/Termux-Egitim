@@ -167,7 +167,7 @@ hemen indirip açmayın. İndirirseniz bile virüs taraması yapmadan açmayın.
 		print("""\033[1m\033[92m
 Metasploit manual olarak kurulması gereken bir araç
 Biz onu otomatik olarak kuracağız ama siz manual olarak kurulmasını
-dökümanlar arasnda bulabilirsiniz.
+dökümanlar arasında bulabilirsiniz.
 """)
 		os.system("sleep 5")
 		os.chdir("/data/data/com.termux/files/home")
