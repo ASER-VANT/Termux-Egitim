@@ -4,11 +4,11 @@
 
 ### Kurulum için:
 
-``pkg update``
+``apt update``
 
-``pkg upgrade``
+``apt upgrade``
 
-``pkg install python``
+``apt install python``
 
 ``pkg install python3``
 
@@ -21,15 +21,11 @@
 ``chmod 777 setup.sh``
 
 ``./setup.sh``
-
-``alias eğitim='python3 Termux-Eğitim.py'``
-
-``eğitim``
-
+``python3 Termux-Egitim.py``
 #### Kısaca asağıdaki komutu yapıştırabilirsiniz
 
 
-``pkg update -y && pkg upgrade -y && pkg install python -y && pkg install bash -y && git clone https://github.com/ASER-VANT/Termux-Egitim.git && cd Termux-Egitim && chmod 777 setup.sh && ./setup.sh && alias eğitim='python3 Termux-Eğitim.py && eğitim``
+``apt update && apt upgrade -y && apt install git -y && apt install python python2 -y && git clone https://github.com/ASER-VANT/Termux-Egitim.git && cd Termux-Egitim && chmod 777 setup.sh && ./setup.sh && python3 Termux-Egitim.py``
 
 
 ##### İletişim
