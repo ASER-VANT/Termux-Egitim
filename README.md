@@ -27,7 +27,7 @@
 
 ``apt update && apt upgrade -y && apt install git -y && apt install python python2 -y && git clone https://github.com/ASER-VANT/Termux-Egitim.git && cd Termux-Egitim && chmod 777 setup.sh && ./setup.sh ``
 
-``python3 Termux-Egitim.py``
+``python3 Termux-Eğitim.py``
 
 
 ##### İletişim
