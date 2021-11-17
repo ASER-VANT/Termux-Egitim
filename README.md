@@ -30,6 +30,12 @@
 ``python3 Termux-Eğitim.py``
 
 
+###Bilgilendirme
+
+Bu Aracın Açıklamalı Videosu Youtubede Yayınlanmaya Başlamıştır Aşağıdaki Linke Tıklayarak Ulaşabilirsiniz
+
+> [Youtube Hunters Akademi](https://www.youtube.com/watch?v=QfMOdBN3ifg&list=PL58F7fWQ1f-aEv0g-qEhmSjpmIMxfNb_E/)
+
 ##### İletişim
 > [INSTAGRAM ASER](https://Instagram.com/aser_vant/)
 
