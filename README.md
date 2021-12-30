@@ -30,7 +30,7 @@
 ``python3 Termux-Eğitim.py``
 
 
-###Bilgilendirme
+### Bilgilendirme
 
 Bu Aracın Açıklamalı Videosu Youtubede Yayınlanmaya Başlamıştır Aşağıdaki Linke Tıklayarak Ulaşabilirsiniz
 
